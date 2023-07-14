@@ -1,5 +1,6 @@
-package br.com.banco;
+package controller;
 import br.com.banco.service.TransferenciaServiceImpl;
+
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
