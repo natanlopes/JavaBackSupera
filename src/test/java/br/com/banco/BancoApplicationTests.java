@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class BancoApplicationTests {
-// criando conexao  com banco
+// criand
     @Test
     void contextLoads() {
     }
